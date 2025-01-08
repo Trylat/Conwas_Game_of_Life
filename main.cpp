@@ -72,7 +72,6 @@ int main(){
             }
         }
 
-
         //Copy Swap Buffer to Display
         std::copy(swap.begin(), swap.end(), display.begin());
 
